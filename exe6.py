@@ -1,0 +1,1 @@
+print("exe6.py")
