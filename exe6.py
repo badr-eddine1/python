@@ -3,4 +3,5 @@ def somme(a,b):
     b=int(input("donne moi le 2eme entier "))
     return a+b
 
-somme(0,0)
+b=somme(0,0)
+print("la somme est ",b)
