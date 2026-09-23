@@ -5,3 +5,5 @@ def somme(a,b):
 
 b=somme(0,0)
 print("la somme est ",b)
+c=somme(0,0)
+print("la somme est ",c)
