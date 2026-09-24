@@ -7,3 +7,6 @@ b=somme(0,0)
 print("la somme est ",b)
 c=somme(0,0)
 print("la somme est ",c)
+
+d=somme(0,0)
+print("la somme est ",d)
