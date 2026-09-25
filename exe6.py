@@ -10,3 +10,5 @@ print("la somme est ",c)
 
 d=somme(0,0)
 print("la somme est ",d)
+e=somme(1,2)
+print("la somme est ",e)
